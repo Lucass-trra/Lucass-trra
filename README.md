@@ -31,12 +31,17 @@ Desde 2022, também comecei a cursar ciências da computação (bacharelado) no 
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=Java)
 
-![Kotlin](https://img.shields.io/badge/Kotlin-000?style=for-the-badge&logo=kotlin)
+![Kotlin](https://img.shields.io/badge/kotlin-000?style=for-the-badge&logo=kotlin)
 
- #### Bibliotecas e FrameWorks
- ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
+#### Bibliotecas e FrameWorks
+![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=DD1100)
+![Spring](https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=Spring)
+
+### Outras tecnologias
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=Docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=Git&logoColor=F05032)
  
 <br>
 
