@@ -3,7 +3,7 @@
 <img src="https://cdn.pixabay.com/photo/2017/05/09/13/33/laptop-2298286_1280.png" align="right" width="30%">
 
 ## Sobre mim <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="5%">
->Olá a todos, eu sou o Lucas Terra, comecei a estudar programação web desde 2022 focado em desenvolvimento front-end, comecei com cursos gratuitos, documentação e projetos pessoais.<br><br>
+>Olá a todos, eu sou o Lucas Terra, comecei a estudar programação web desde 2022 focado em desenvolvimento front-end e back-end, comecei com cursos gratuitos, documentação e projetos pessoais.<br><br>
 Desde 2022, também comecei a cursar ciências da computação (bacharelado) no formato EAD, um curso generalista que foca em várias áreas do T.I
 
 <br>
@@ -30,6 +30,10 @@ Desde 2022, também comecei a cursar ciências da computação (bacharelado) no 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+
+![Kotlin](https://img.shields.io/badge/Kotlin-000?style=for-the-badge&logo=kotlin)
 
  #### Bibliotecas e FrameWorks
  ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
