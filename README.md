@@ -49,10 +49,3 @@ Desde 2022, também comecei a cursar ciências da computação (bacharelado) no 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucass-trra&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lucass-trra&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-<br>
-
-## Minhas contribuições <img src="https://cdn-icons-png.flaticon.com/512/5708/5708026.png" width="5%">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucass-trra&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
-
